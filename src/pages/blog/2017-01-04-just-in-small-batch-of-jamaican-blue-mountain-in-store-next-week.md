@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Post #3"
-date: 2017-01-04T15:04:10.000Z
+date: 2020-06-11T03:56:37.275Z
 description: Le pouvoir de l'empathie.
 featuredpost: true
 featuredimage: /img/test.png
